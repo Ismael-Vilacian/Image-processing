@@ -1,5 +1,6 @@
 # Processamento de imagens
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="40" height="40"/>
+          
 Neste breve estudo, exploramos os processamentos de imagem ao aplicar os filtros de passagem baixa e passagem alta na prática.
 
 ## Funcionalidades

@@ -28,4 +28,4 @@ Para executar, simplesmente instale o [Python 3](https://www.python.org) em seu 
 ```sh
 pip3 install opencv-contrib-python
 ```
-Após isso, basta executar o aequivo princial filters.py.
+Após isso, basta executar o arquivo princial filters.py.

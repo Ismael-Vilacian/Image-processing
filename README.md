@@ -29,3 +29,13 @@ Para executar, simplesmente instale o [Python 3](https://www.python.org) em seu 
 pip3 install opencv-contrib-python
 ```
 Após isso, basta executar o arquivo princial filters.py.
+
+## Resultados
+
+O código selecionará uma imagem específica localizada no diretório ‘images/image-1.png’. Em seguida, aplicará os filtros de passa-alto e passa-baixo, salvando os resultados nos caminhos ‘processed-image/high_pass_image-2.png’ e ‘processed-image/low_pass_image-2.png’. Aqui podemos avaliar os resultados obtidos:
+
+<img loading="lazy" src="https://i.imgur.com/JpbriFR.png"/>
+
+Para uma visualização mais detalhada dos resultados, podemos ver uma ampliação de uma parte das imagens:
+
+<img loading="lazy" src="https://i.imgur.com/y0EgPeF.png"/>
